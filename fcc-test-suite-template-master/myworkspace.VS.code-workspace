@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Desktop/firstpro"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Default Dark+",
+		"workbench.iconTheme": null,
+		"workbench.preferredDarkColorTheme": "Abyss",
+		"terminal.integrated.fontSize": 14
+	}
+}
